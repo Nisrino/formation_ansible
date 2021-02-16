@@ -1,0 +1,2 @@
+Debian2 ansible_ssh_host=192.168.56.105
+centos01 ansible_ssh_host=192.168.56.106
